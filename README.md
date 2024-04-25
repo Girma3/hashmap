@@ -11,7 +11,9 @@
     - entries - return an array of all key value pair.
     - clear - rempoe all entries and return new array.
 - The script can run using node hash.js.
+- The hashset object has the same method except entries and values method also for collision it use linear probing method.
 # what I learned
 - how to use hasmap , how to handle collision in hasmap ,about loadfactor to resize the hashmap table.
+- diffrence between hasmap and hashset.
 # continued development
-- I want to learn more about how to integrate linked list, hashmap in projects efficently.
+- I want to learn more about how to integrate linked list, hashmap in projects.
