@@ -9,7 +9,7 @@
     - keys - return all the keys as an array.
     - values - return all the values as an array.
     - entries - return an array of all key value pair.
-    - clear - rempoe all entries and return new array.
+    - clear - remove all entries and return new array.
 - The script can run using node hash.js.
 - The hashset object has the same method except entries and values method also for collision it use linear probing method.
 # what I learned
