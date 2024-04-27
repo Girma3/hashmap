@@ -1,5 +1,5 @@
 # hashmap
-- This is solution for Top (Hash map)[https://www.theodinproject.com/lessons/javascript-hashmap]
+- This is solution for Top [Hash map](https://www.theodinproject.com/lessons/javascript-hashmap)
 - This hashmap object has the following methods.
     - set - use to store key value pair.
     - get - use to get value using key return array of values.
